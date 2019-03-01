@@ -18,6 +18,8 @@ public class Gitpractice {
         // TODO code application logic here
         System.out.println("test");
         System.out.println("New line");
+        System.out.println("Hello");
+        System.out.println("123");
     }
     
 }
